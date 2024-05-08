@@ -1,0 +1,35 @@
+.headlines {
+	text-align: center;
+	font-size: 70px;
+	font-family: arial;
+	font-weigth: bold;
+}
+.tab {
+	background-color: #256c8a;
+	padding: 15px;
+	border-radius: 4px;
+}
+.tab-b {
+	height: 50px;
+	color: black;
+	border-style: solid;
+	border-color: #0b2042;
+	border-radius: 5px;
+	padding-left: 14px;
+	padding-right: 14px;
+	margin-left: 20px;
+	border-width: 3px;
+	margin-top: -20px;
+	transition: 0.15s;
+}
+.tab-b:hover {
+	border-color: #74afed;
+	background-color: #0b2042;
+	color: #74afed;
+	border-width: 3px;
+}
+.head {
+	margin-bottom: -19px;
+	color: white;
+	font-family: arial;
+}
